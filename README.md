@@ -1,7 +1,7 @@
 # stripe-mcp-server-by-cdata
 CData's Model Context Protocol (MCP) Server for Stripe
 
-:heavy_exclamation_mark: This project builds a read-only MCP server. For full read, write, update, delete, and action capabilities and a simplified setup, check out our free [CData MCP Server for Stripe (beta)](https://www.cdata.com/download/download.aspx?sku=BOZK-V&type=beta). 
+:heavy_exclamation_mark: This project builds a read-only MCP server. For full read, write, update, delete, and action capabilities and a simplified setup, check out our free [CData MCP Server for Stripe (beta)](https://www.cdata.com/download/download.aspx?sku=BOZM-V&type=beta). 
 ## Purpose
 We created this read-only MCP Server to allow LLMs (like Claude Desktop) to query live data Stripe supported by the [CData JDBC Driver for Stripe](https://www.cdata.com/drivers/stripe/jdbc).
 
